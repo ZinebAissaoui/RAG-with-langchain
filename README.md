@@ -33,6 +33,7 @@ In this project, you will find pipelines 1 and 2, which represent my contributio
 # Results
 1. 
 ![image](https://github.com/user-attachments/assets/fbd8624f-a32f-431c-9e3d-8b57735de3e3)
+
 2.
 ![image](https://github.com/user-attachments/assets/7343521b-ec06-4499-853a-0ee274f1c44f)
 
