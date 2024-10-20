@@ -28,7 +28,7 @@ RAG improves the quality of answers, especially in scenarios where the language 
 
 ![image](https://github.com/user-attachments/assets/bc40e45e-30d1-4974-91af-d5ce1d294506)
 
-In this project, you will find pipelines 1 and 2, which represent my contributions to the hackathon.
+In this project, you will find the script for **pipelines 1 and 2**, which represent my contributions to the hackathon.
 
 # Results
 1. 
